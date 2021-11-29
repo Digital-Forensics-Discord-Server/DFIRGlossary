@@ -5,7 +5,6 @@ A collaboration effort by the DFIR community to provide definitions (sometimes m
 
 | Term | Definition(s) | Source |
 |---|---|---|
-| Example | * Definition 1, maybe common<br>* Definition 2, maybe more specific, like region/ISO-based | Source if applicable |
 | Acquisition | * A process by   which digital evidence is duplicated, copied, or imaged. | [NIST.gov](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-101r1.pdf) |
 | Analysis | * The examination of acquired data for   its significance and probative value to the case. | [NIST.gov](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-101r1.pdf) |
 | Authentication Mechanism | * Hardware or software-based mechanisms   that force users to prove their identity before accessing data on a device. | [NIST.gov](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-101r1.pdf) |
